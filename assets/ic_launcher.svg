@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 108 108">
+  <!-- Background circle -->
+  <circle cx="54" cy="54" r="54" fill="#0D1117"/>
+  <!-- Frame -->
+  <rect x="34" y="38" width="40" height="32" rx="6" fill="#00BCD4"/>
+  <!-- Sun/dot -->
+  <circle cx="62" cy="46" r="3" fill="#FFFFFF"/>
+  <!-- Mountain 1 -->
+  <path d="M38,58 Q43,50 48,56 L48,64 L38,64 Z" fill="#FFFFFF"/>
+  <!-- Mountain 2 -->
+  <path d="M46,58 Q52,48 58,56 L58,64 L46,64 Z" fill="#FFFFFF" opacity="0.8"/>
+  <!-- Mountain 3 -->
+  <path d="M55,56 Q61,50 67,58 L67,64 L55,64 Z" fill="#FFFFFF" opacity="0.7"/>
+  <!-- Border -->
+  <rect x="36" y="40" width="36" height="28" rx="4" fill="none" stroke="#FFFFFF" stroke-width="1.2" opacity="0.3"/>
+</svg>

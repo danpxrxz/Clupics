@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="100"/>
+<img src="assets/ic_launcher.svg" width="96"/>
 
 <br/>
 
@@ -16,7 +16,7 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-BOM%202025.03-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-SDK%2026+-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-Ladybug-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![License](https://img.shields.io/badge/License-Apache%202.0-0D1117?style=flat-square)
+![License](https://img.shields.io/badge/License-CC%20BY--ND%204.0-0D1117?style=flat-square)
 
 <br/>
 
@@ -27,29 +27,6 @@
 <br/><br/>
 
 </div>
-
----
-
-<br/>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td><img src="assets/ss/home.png" width="160" style="border-radius:16px"/></td>
-    <td><img src="assets/ss/folder.png" width="160" style="border-radius:16px"/></td>
-    <td><img src="assets/ss/image_viewer.png" width="160" style="border-radius:16px"/></td>
-  </tr>
-  <tr>
-    <td><img src="assets/ss/settings.png" width="160" style="border-radius:16px"/></td>
-    <td><img src="assets/ss/app_lock.png" width="160" style="border-radius:16px"/></td>
-    <td></td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
 
 ---
 
@@ -106,7 +83,7 @@ Full license: https://creativecommons.org/licenses/by-nd/4.0/
 
 <br/>
 
-Made with ♥ from Colombia &nbsp;·&nbsp;
+Made with ♥ from Colombia &nbsp;·&nbsp; Powered by Jetpack Compose
 
 <br/>
 
