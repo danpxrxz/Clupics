@@ -99,7 +99,7 @@ Full license: https://creativecommons.org/licenses/by-nd/4.0/
 
 <br/>
 
-Made with ♥ from Colombia &nbsp;·&nbsp; Powered by Jetpack Compose
+Made with ♥ from Colombia &nbsp;
 
 <br/>
 
