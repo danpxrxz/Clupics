@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Clupics</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Fotos</string>
+    <string name="nav_folders">Carpetas</string>
+    <string name="nav_albums">Álbumes</string>
+    <string name="nav_settings">Ajustes</string>
+
+    <!-- Home -->
+    <string name="home_title">Fotos</string>
+    <string name="home_empty_title">No se encontró multimedia</string>
+    <string name="home_empty_subtitle">Las fotos y videos de tu dispositivo aparecerán aquí</string>
+
+    <!-- Albums / Folders -->
+    <string name="albums_title">Carpetas</string>
+    <string name="albums_featured">Destacados</string>
+    <string name="albums_all">Todas las carpetas</string>
+    <string name="albums_empty">No hay carpetas</string>
+    <string name="albums_items">%1$d elementos</string>
+
+    <!-- Viewer -->
+    <string name="viewer_back">Volver</string>
+    <string name="viewer_share">Compartir</string>
+    <string name="viewer_info">Información</string>
+    <string name="viewer_delete">Eliminar</string>
+    <string name="viewer_audio_soon">Reproductor de audio próximamente</string>
+    <string name="viewer_delete_confirm_title">Eliminar foto</string>
+    <string name="viewer_delete_confirm_msg">¿Eliminar esta foto permanentemente?</string>
+    <string name="viewer_delete_confirm_ok">Eliminar</string>
+    <string name="viewer_delete_confirm_cancel">Cancelar</string>
+    <string name="viewer_info_title">Información</string>
+    <string name="viewer_info_name">Nombre</string>
+    <string name="viewer_info_size">Tamaño</string>
+    <string name="viewer_info_date">Fecha</string>
+    <string name="viewer_info_dimensions">Dimensiones</string>
+
+    <!-- Video Player -->
+    <string name="player_play">Reproducir</string>
+    <string name="player_pause">Pausar</string>
+    <string name="player_mute">Silenciar</string>
+    <string name="player_unmute">Activar sonido</string>
+    <string name="player_rewind">Retroceder 10s</string>
+    <string name="player_forward">Adelantar 10s</string>
+    <string name="player_fullscreen">Pantalla completa</string>
+    <string name="player_replay">Repetir</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Ajustes</string>
+    <string name="settings_appearance">Apariencia</string>
+    <string name="settings_dark_mode">Modo oscuro</string>
+    <string name="settings_dark_mode_sub_system">Siguiendo el tema del dispositivo</string>
+    <string name="settings_dark_mode_sub_dark">Forzado en modo oscuro</string>
+    <string name="settings_dark_mode_sub_light">Forzado en modo claro</string>
+    <string name="settings_dark_mode_system">Sistema</string>
+    <string name="settings_dark_mode_dark">Oscuro</string>
+    <string name="settings_dark_mode_light">Claro</string>
+    <string name="settings_dark_mode_sub">Cambiar tema de la aplicación</string>
+    <string name="settings_amoled_mode">Tema AMOLED</string>
+    <string name="settings_amoled_mode_sub">Fondo negro puro, ideal para pantallas OLED</string>
+    <string name="settings_dynamic_color">Color dinámico (Monet)</string>
+    <string name="settings_dynamic_color_sub">Usar colores del fondo de pantalla</string>
+    <string name="settings_grid_columns">Columnas de cuadrícula</string>
+    <string name="settings_grid_columns_value">%1$d columnas</string>
+    <string name="settings_media_filters">Filtros de multimedia</string>
+    <string name="settings_show_images">Mostrar imágenes</string>
+    <string name="settings_show_images_sub">Fotos y capturas de pantalla</string>
+    <string name="settings_show_videos">Mostrar videos</string>
+    <string name="settings_show_videos_sub">Videos y grabaciones</string>
+    <string name="settings_language">Idioma</string>
+    <string name="settings_language_sub">Seleccionar idioma de la app</string>
+    <string name="settings_language_system">Idioma del sistema</string>
+    <string name="settings_privacy">Privacidad</string>
+    <string name="settings_app_lock">Bloqueo de aplicación</string>
+    <string name="settings_app_lock_sub">Requiere huella, rostro o PIN del sistema al abrir</string>
+    <string name="settings_app_lock_unavailable">No hay métodos de bloqueo configurados en este dispositivo</string>
+    <string name="settings_about">Acerca de</string>
+    <string name="settings_about_app">Clupics</string>
+    <string name="settings_about_version">Versión 1.0.0 Beta 1</string>
+    <string name="settings_about_author">danpxrxz</string>
+    <string name="settings_about_author_label">Desarrollador</string>
+    <string name="settings_about_repo">Ver código fuente</string>
+    <string name="settings_about_repo_url">https://github.com/danpxrxz/clupics</string>
+
+    <!-- Permission -->
+    <string name="permission_title">Permiso de almacenamiento</string>
+    <string name="permission_message">Para mostrar tus fotos y videos, necesitamos acceso a tu almacenamiento.</string>
+    <string name="permission_grant">Conceder permiso</string>
+
+    <!-- Lock -->
+    <string name="lock_title">Clupics bloqueado</string>
+    <string name="lock_subtitle">Verifica tu identidad para continuar</string>
+    <string name="lock_message">Usa tu huella, rostro o PIN del dispositivo para acceder</string>
+    <string name="lock_unlock_button">Desbloquear</string>
+
+    <!-- Languages -->
+    <string name="lang_es">Español</string>
+    <string name="lang_en">English</string>
+    <string name="lang_fr">Français</string>
+    <string name="lang_pt">Português</string>
+    <string name="lang_de">Deutsch</string>
+    <string name="lang_system">Sistema</string>
+
+    <!-- Selection -->
+    <string name="selection_delete">Eliminar selección</string>
+    <string name="selection_share">Compartir selección</string>
+    <string name="selection_cancel">Cancelar</string>
+    <string name="selection_count">%1$d seleccionados</string>
+    <string name="selection_select">Seleccionar elementos</string>
+    <string name="selection_select_albums">Seleccionar carpetas</string>
+    <string name="selection_delete_confirm_title">Eliminar elementos</string>
+    <string name="selection_delete_confirm_msg">¿Eliminar %1$d elemento(s) permanentemente?</string>
+    <string name="selection_delete_confirm_ok">Eliminar</string>
+    <string name="selection_delete_confirm_cancel">Cancelar</string>
+    <string name="selection_select_all">Seleccionar todo</string>
+    <string name="selection_move">Mover selección</string>
+    <string name="selection_move_title">Mover a carpeta</string>
+
+    <!-- Sort -->
+    <string name="menu_label">Menú</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="sort_label">Ordenar</string>
+    <string name="sort_date_desc">Más reciente primero</string>
+    <string name="sort_date_asc">Más antiguo primero</string>
+    <string name="sort_name_asc">Nombre A → Z</string>
+    <string name="sort_name_desc">Nombre Z → A</string>
+
+    <!-- Album detail -->
+    <string name="album_detail_title">%1$s</string>
+    <string name="album_detail_items">%1$d elementos</string>
+    <string name="viewer_options">Opciones</string>
+    <string name="selection_tap_to_select">Toca para seleccionar</string>
+    <string name="selection_tap_to_select_albums">Selecciona álbumes</string>
+    <string name="selection_cancel_desc">Cancelar selección</string>
+    <string name="album_item_count">%1$d elementos</string>
+</resources>

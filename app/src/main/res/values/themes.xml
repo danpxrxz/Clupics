@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GaleriaApp" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Barras 100% transparentes desde XML — Compose no las toca nunca más -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <!-- windowBackground = surface del tema claro.
+             Android usa este color para la animación de tarjeta del gesto
+             predictivo nativo. Debe coincidir con colorScheme.surface. -->
+        <item name="android:windowBackground">@color/window_background_light</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+        <!-- Edge-to-edge desde XML para que no haya ningún frame con barras opacas -->
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">false</item>
+    </style>
+</resources>
