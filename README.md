@@ -32,6 +32,20 @@
 
 <br/>
 
+<div align="center">
+<img src="assets/ss/home.png" width="180"/>&nbsp;
+<img src="assets/ss/folder.png" width="180"/>&nbsp;
+<img src="assets/ss/image_viewer.png" width="180"/>&nbsp;
+<img src="assets/ss/settings.png" width="180"/>&nbsp;
+<img src="assets/ss/app_lock.png" width="180"/>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 ## Features
 
 &nbsp;&nbsp;**Chromecast** — Cast photos and videos to any Cast-compatible screen
