@@ -33,11 +33,13 @@
 <br/>
 
 <div align="center">
-<img src="assets/ss/home.png" width="180"/>&nbsp;
-<img src="assets/ss/folder.png" width="180"/>&nbsp;
-<img src="assets/ss/image_viewer.png" width="180"/>&nbsp;
-<img src="assets/ss/settings.png" width="180"/>&nbsp;
-<img src="assets/ss/app_lock.png" width="180"/>
+<img src="assets/ss/home.png" width="220"/>&nbsp;&nbsp;
+<img src="assets/ss/folder.png" width="220"/>
+
+<br/><br/>
+
+<img src="assets/ss/settings.png" width="220"/>&nbsp;&nbsp;
+<img src="assets/ss/app_lock.png" width="220"/>
 </div>
 
 <br/>
