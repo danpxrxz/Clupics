@@ -63,7 +63,7 @@
 
 &nbsp;&nbsp;**Hide media** — Filter out photos or videos from the gallery view
 
-&nbsp;&nbsp;**Integrated Video Player** — Powerful player with gesture controls (brightness/volume) and support for all modern formats (MP4, MKV, WebM)
+&nbsp;&nbsp;**Integrated Video Player** — Powerful player, support for all modern formats (MP4, MKV, WebM)
 
 <br/>
 
