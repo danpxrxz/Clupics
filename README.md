@@ -23,7 +23,6 @@
 &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/danpxrxz)
 &nbsp;
-![License](https://img.shields.io/badge/License-CC%20BY--ND%204.0-0D1117?style=for-the-badge)
 
 <br/><br/>
 
@@ -72,7 +71,7 @@
 
 ## Requirements
 
-- Android **8.0 Oreo** or higher (SDK 26+)
+- Android 8.0 Oreo or higher (SDK 26+)
 - Storage permission (photos & videos)
 
 <br/>
@@ -84,7 +83,7 @@
 ## License
 
 ```
-Copyright (c) 2025 danpxrxz
+Copyright (c) 2026 danpxrxz
 
 This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0
 International License (CC BY-ND 4.0).
