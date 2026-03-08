@@ -12,36 +12,42 @@
 
 <br/>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-2.0.21-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-BOM%202025.03-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-SDK%2026+-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-Ladybug-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![License](https://img.shields.io/badge/License-CC%20BY--ND%204.0-0D1117?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 <br/>
 
 [![Release](https://img.shields.io/github/v/release/danpxrxz/clupics?style=for-the-badge&logo=github&logoColor=white&color=0D1117&label=Download%20APK)](https://github.com/danpxrxz/clupics/releases)
 &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/danpxrxz)
+&nbsp;
+![License](https://img.shields.io/badge/License-CC%20BY--ND%204.0-0D1117?style=for-the-badge)
 
 <br/><br/>
 
 </div>
+
 
 ---
 
 <br/>
 
 <div align="center">
-<img src="assets/ss/home.png" width="220"/>&nbsp;&nbsp;
-<img src="assets/ss/folder.png" width="220"/>
 
-<br/><br/>
+<table align="center">
+  <tr>
+    <td align="center"><img src="assets/ss/home.png" width="160"/></td>
+    <td align="center"><img src="assets/ss/folder.png" width="160"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/ss/settings.png" width="160"/></td>
+    <td align="center"><img src="assets/ss/app_lock.png" width="160"/></td>
+  </tr>
+</table>
 
-<img src="assets/ss/settings.png" width="220"/>&nbsp;&nbsp;
-<img src="assets/ss/app_lock.png" width="220"/>
 </div>
-
 <br/>
 
 ---
@@ -99,7 +105,7 @@ Full license: https://creativecommons.org/licenses/by-nd/4.0/
 
 <br/>
 
-Made with ♥ from Colombia &nbsp;·&nbsp; Powered by Jetpack Compose
+Made with ♥ from Colombia &nbsp;
 
 <br/>
 
